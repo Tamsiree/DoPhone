@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_blue_light"
+    android:gravity="center_horizontal"
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="55dip"
+        android:background="#8866ff00"
+        android:gravity="center"
+        android:text="智能保护功能"
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <TextView
+        style="@style/text_content_style"
+        android:text="" />
+
+    <TextView
+        style="@style/text_content_style"
+        android:drawableLeft="@android:drawable/ic_menu_zoom"
+        android:text="  GPS追踪           " />
+    
+    <TextView
+        style="@style/text_content_style"
+        android:drawableLeft="@android:drawable/ic_lock_lock"
+        android:text="  远程锁屏           " />
+    
+    <TextView
+        style="@style/text_content_style"
+        android:drawableLeft="@android:drawable/ic_menu_agenda"
+        android:text="  远程数据销毁   " />
+    
+    <TextView
+        style="@style/text_content_style"
+        android:drawableLeft="@android:drawable/ic_menu_upload_you_tube"
+        android:text="  sim卡变更报警" /> 
+
+    <TextView
+        style="@style/text_content_style"
+        android:text="" />
+    
+
+    
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_online" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/setup1" />
+
+        <Button
+            style="@style/button_next_style"
+            />
+    </RelativeLayout>
+
+</LinearLayout>
