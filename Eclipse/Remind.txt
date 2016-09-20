@@ -1,1 +1,0 @@
-将MPChartLib、PinYinLib分别作为library依赖于DoPhone。
