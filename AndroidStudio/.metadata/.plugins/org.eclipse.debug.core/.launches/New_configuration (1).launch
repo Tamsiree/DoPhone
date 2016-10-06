@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="androidLaunchConfigurationType">
+<intAttribute key="org.eclipse.andmore.action" value="0"/>
+<stringAttribute key="org.eclipse.andmore.activity" value=""/>
+<stringAttribute key="org.eclipse.andmore.android.launch.instanceName" value=""/>
+<stringAttribute key="org.eclipse.andmore.commandline" value=""/>
+<intAttribute key="org.eclipse.andmore.delay" value="0"/>
+<booleanAttribute key="org.eclipse.andmore.nobootanim" value="false"/>
+<intAttribute key="org.eclipse.andmore.speed" value="0"/>
+<stringAttribute key="org.eclipse.andmore.target" value="AUTO"/>
+<booleanAttribute key="org.eclipse.andmore.wipedata" value="false"/>
+<booleanAttribute key="org.eclipse.jdt.launching.ALLOW_TERMINATE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value=""/>
+</launchConfiguration>

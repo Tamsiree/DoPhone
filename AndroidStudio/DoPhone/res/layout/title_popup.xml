@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#88262249"
+    android:orientation="vertical" >
+<!-- #aa005ea8  透明蓝 -->
+    <ListView
+        android:id="@+id/title_list"
+        android:layout_width="180dp"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="#2C71A1"
+        android:padding="10dp"
+        android:scrollingCache="false" />
+
+</LinearLayout>

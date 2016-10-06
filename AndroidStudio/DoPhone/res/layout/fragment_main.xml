@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="55dip"
+        android:background="#262249"
+        android:gravity="center"
+        android:text="功能列表"
+        android:textColor="#E0FDFF"
+        android:textSize="22sp" />
+
+    <com.example.dophone.ui.FocusedTextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#35375F"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:text="欢迎使用DoPhone,智能防盗功能尚在内测期间          欢迎使用DoPhone,智能防盗功能尚在内测期间 "
+        android:textColor="#B7E3FF"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/list_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_bg"
+        android:horizontalSpacing="20dip"
+        android:numColumns="3"
+        android:padding="20dip"
+        android:verticalSpacing="20dip" />
+
+</LinearLayout>

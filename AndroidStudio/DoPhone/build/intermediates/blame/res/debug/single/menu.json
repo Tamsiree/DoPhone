@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\select_contact.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\select_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\function_usage.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\function_usage.xml"
+    },
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\scanner.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\safe__phone__setup3.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\safe__phone__setup3.xml"
+    },
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\safe__phone__setup4.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\safe__phone__setup4.xml"
+    },
+    {
+        "merged": "C:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\res\\merged\\debug\\menu\\safe__phone__setup2.xml",
+        "source": "C:\\Users\\vonde\\workspace\\DoPhone\\res\\menu\\safe__phone__setup2.xml"
+    }
+]

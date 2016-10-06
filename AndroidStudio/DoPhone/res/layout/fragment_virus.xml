@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/common_title_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <!-- 扫描动画 -->
+
+        <FrameLayout
+            android:layout_margin="10dp"
+            android:layout_width="80dip"
+            android:layout_height="80dip" >
+
+            <ImageView
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:src="@drawable/ic_scanner_malware" />
+
+            <ImageView
+                android:id="@+id/iv_act_scanning"
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:src="@drawable/act_scanning_03" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dip"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_process_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:singleLine="true"
+                android:text="扫描完毕..."
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <ProgressBar
+                android:id="@+id/virus_pb"
+                style="@style/my_pb_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_marginTop="1dip"
+                android:progressDrawable="@drawable/progress_horizontal" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- 扫描的信息 -->
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="2" >
+
+        <LinearLayout
+            android:id="@+id/virus_sv_content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bt_pasuse"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="#88AAAAAA"
+                android:gravity="center"
+                android:textColor="@color/yellow"
+                android:text="暂停" />
+
+
+            <Button
+                android:id="@+id/bt_stop"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="#88AAAAAA"
+                android:gravity="center"
+                android:textColor="@color/yellow"
+                android:text="开始" />
+    </LinearLayout>
+
+</LinearLayout>

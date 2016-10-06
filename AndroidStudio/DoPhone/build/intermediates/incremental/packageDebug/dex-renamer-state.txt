@@ -1,0 +1,7 @@
+#Thu Oct 06 22:09:24 CST 2016
+base.0=C\:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5af8e52183888cc997b2074814b9eaffcbbc2ad6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9cd79c2e3416988aceaaecfd544b0443c5fd8fe9\\classes.dex
+base.1=C\:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9cd79c2e3416988aceaaecfd544b0443c5fd8fe9
+file.0=C\:\\Users\\vonde\\workspace\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5af8e52183888cc997b2074814b9eaffcbbc2ad6\\classes.dex

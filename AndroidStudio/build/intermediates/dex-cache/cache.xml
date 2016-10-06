@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\jniLibs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_987780c0ce90223629cefe628229f7a8101d5341\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\jniLibs\zbardecoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="4553499249a43cac44faec812aa7003adec334e2">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\2\zbardecoder_e9c6082b214bd0b3b7322f013fbd77200e57a9d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\jniLibs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="5cf8fe9735729561c334c4a33803c332d32de888">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_9bf378830f9dabecc7544382cc4c9a722bfe97ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="4c8adcb8b54f33566ecbe3bcab8eccaedb8778e4">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9cd79c2e3416988aceaaecfd544b0443c5fd8fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="aa7b21f52068c58928a5fa52d6fda23cba77ede2">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5af8e52183888cc997b2074814b9eaffcbbc2ad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\jniLibs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_c660f35dc06f721c6cb6cb6dd86ba0b29dcee585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\jniLibs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0dab30068b8af1f185fe108af2aece805a79fff3">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_d31c68d6c1f7657ea96714dcaa0bef3f42518641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\build\intermediates\exploded-aar\workspace\PinYinLib\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="612690eae783ffce8ee84d153d663aeaabc55477">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_f22e1d8b4b73d531d8f32090531fbb66618184e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vonde\workspace\DoPhone\build\intermediates\exploded-aar\workspace\PinYinLib\unspecified\jars\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="fef719fbca78dba4ee7f0896fb38e446d19ee29a">
+        <dex dex="C:\Users\vonde\workspace\DoPhone\build\intermediates\transforms\dex\debug\folders\1000\8\pinyin4j-2.5.0_f187f6a7e82a6267367e2c40306255af4fd8772c\classes.dex" />
+    </item>
+
+</items>
