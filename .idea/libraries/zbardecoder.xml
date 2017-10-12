@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="zbardecoder">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/DoPhone/jniLibs/zbardecoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/App/jniLibs/zbardecoder.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

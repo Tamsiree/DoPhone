@@ -1,7 +1,0 @@
-#Thu Oct 12 10:32:33 CST 2017
-base.0=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2153d2931b154baa2997e680d484712302786d3
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1c5fc157f8bb172a9ee4eac6f20b1eabc7d4172c\\classes.dex
-base.1=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1c5fc157f8bb172a9ee4eac6f20b1eabc7d4172c
-file.0=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2153d2931b154baa2997e680d484712302786d3\\classes.dex

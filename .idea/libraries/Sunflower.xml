@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Sunflower">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/DoPhone/jniLibs/Sunflower.jar!/" />
+      <root url="jar://$PROJECT_DIR$/App/jniLibs/Sunflower.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

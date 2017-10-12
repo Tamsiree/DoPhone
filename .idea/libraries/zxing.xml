@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="zxing">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/DoPhone/jniLibs/zxing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/App/jniLibs/zxing.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

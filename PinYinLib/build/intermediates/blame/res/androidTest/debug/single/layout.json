@@ -1,10 +1,6 @@
 [
     {
-        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\PinYinLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
-        "source": "F:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\PinYinLib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\vonde\\workspace\\PinYinLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\vonde\\workspace\\PinYinLib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\PinYinLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\PinYinLib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
     }
 ]

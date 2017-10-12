@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boy.jpg",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\boy.jpg"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bg.jpg",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_beg.jpg",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\splash_beg.jpg"
+    }
+]

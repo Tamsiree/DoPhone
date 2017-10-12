@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Data\SYB\Git\DoPhone\AndroidStudio\PinYinLib\src\main\shaders"/></dataSet><dataSet config="release"><source path="F:\Data\SYB\Git\DoPhone\AndroidStudio\PinYinLib\build-types\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\Data\SYB\Git\DoPhone\PinYinLib\src\main\shaders"/></dataSet><dataSet config="release"><source path="F:\Data\SYB\Git\DoPhone\PinYinLib\build-types\release\shaders"/></dataSet></merger>

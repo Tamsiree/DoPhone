@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\chineseknot.apk",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\chineseknot.apk"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\filemanager.apk",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\filemanager.apk"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\softmanager.apk",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\softmanager.apk"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\progressmanager.apk",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\progressmanager.apk"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\antivirus.db",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\antivirus.db"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dictionary.apk",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\raw\\dictionary.apk"
+    }
+]

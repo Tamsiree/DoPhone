@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_out.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\anim\\tran_out.xml"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_in.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\anim\\tran_in.xml"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_pre_out.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\anim\\tran_pre_out.xml"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tran_pre_in.xml",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\anim\\tran_pre_in.xml"
+    }
+]

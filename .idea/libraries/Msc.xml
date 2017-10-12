@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Msc">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/DoPhone/jniLibs/Msc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/App/jniLibs/Msc.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

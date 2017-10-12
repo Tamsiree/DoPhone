@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_item.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\btn_item.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_mask.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\scan_mask.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\transparent_bg.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\transparent_bg.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_purple_64.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\back_purple_64.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\code_icon.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\code_icon.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unlock.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_softmanager.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\app_softmanager.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_listitem_grey_normal.9.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\mm_listitem_grey_normal.9.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_listitem_pressed.9.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\mm_listitem_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\capture.9.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\capture.9.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kakalib_scan_ray.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\kakalib_scan_ray.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_malware.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button1.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\button1.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help_icon.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\help_icon.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bc.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\bc.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_viurs.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\app_viurs.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\defaulthead.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\defaulthead.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\circle.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_chineseknot.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\app_chineseknot.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nine_code.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\nine_code.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_filemanager.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\app_filemanager.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_play_cover.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\default_play_cover.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_small.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\bg_small.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\safe_phone.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\safe_phone.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_progress.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_progress_bg.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_big.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\bg_big.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup1.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bind.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\previous.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_progress.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\app_progress.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\act_scanning_03.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ico_ijobs_wkstu.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\ico_ijobs_wkstu.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\linecode_icon.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\linecode_icon.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_dictionary.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\app_dictionary.png"
+    },
+    {
+        "merged": "F:\\Data\\SYB\\Git\\DoPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_add.png",
+        "source": "F:\\Data\\SYB\\Git\\DoPhone\\app\\res\\drawable-hdpi\\menu_add.png"
+    }
+]
