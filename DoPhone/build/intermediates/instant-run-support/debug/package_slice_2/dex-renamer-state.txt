@@ -1,0 +1,4 @@
+#Thu Oct 12 10:32:32 CST 2017
+base.0=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

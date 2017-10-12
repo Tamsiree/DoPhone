@@ -1,0 +1,22 @@
+#Thu Oct 12 10:32:32 CST 2017
+renamed.6=classes4.dex
+renamed.5=classes6.dex
+renamed.4=classes3.dex
+renamed.3=classes7.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes5.dex
+base.6=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\zbardecoder_b2bed2a1dd1a0c25ee275587c849bec686f5da1c
+base.5=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\android-support-v4_e552082e1f6ecbfd1d784deb121db2adfcebf030
+base.4=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Sunflower_85128d9737718485fbc1eb1ae18c6b60cbb454d0
+base.3=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\pinyin4j-2.5.0_c575be2db213ceeb3d68b913ff47c868bc927334
+base.2=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_479c8f2a87cb3e47dcfc5d34f00abd2ed6e1ae3c
+base.1=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Msc_012ff5a2dd8d5d3757ef0bbd3e711584222ad3c5
+base.0=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\zxing_66429a05c1b6c100e0d43da20f3dc6a1d1acd2f5
+file.6=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\zbardecoder_b2bed2a1dd1a0c25ee275587c849bec686f5da1c\\classes.dex
+file.5=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\android-support-v4_e552082e1f6ecbfd1d784deb121db2adfcebf030\\classes.dex
+file.4=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Sunflower_85128d9737718485fbc1eb1ae18c6b60cbb454d0\\classes.dex
+file.3=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\pinyin4j-2.5.0_c575be2db213ceeb3d68b913ff47c868bc927334\\classes.dex
+file.2=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_479c8f2a87cb3e47dcfc5d34f00abd2ed6e1ae3c\\classes.dex
+file.1=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Msc_012ff5a2dd8d5d3757ef0bbd3e711584222ad3c5\\classes.dex
+file.0=F\:\\Data\\SYB\\Git\\DoPhone\\AndroidStudio\\DoPhone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\zxing_66429a05c1b6c100e0d43da20f3dc6a1d1acd2f5\\classes.dex

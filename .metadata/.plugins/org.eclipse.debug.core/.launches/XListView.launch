@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.andmore.debug.LaunchConfigType">
+<intAttribute key="org.eclipse.andmore.action" value="0"/>
+<stringAttribute key="org.eclipse.andmore.commandline" value=""/>
+<intAttribute key="org.eclipse.andmore.delay" value="0"/>
+<booleanAttribute key="org.eclipse.andmore.nobootanim" value="false"/>
+<intAttribute key="org.eclipse.andmore.speed" value="0"/>
+<stringAttribute key="org.eclipse.andmore.target" value="AUTO"/>
+<booleanAttribute key="org.eclipse.andmore.wipedata" value="false"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/XListView"/>
+<listEntry value="/XListView/AndroidManifest.xml"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="XListView"/>
+</launchConfiguration>
