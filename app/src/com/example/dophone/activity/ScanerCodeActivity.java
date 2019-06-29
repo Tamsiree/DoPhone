@@ -55,7 +55,7 @@ import com.zbar.lib.InactivityTimer;
 
 
 /**
- * 作者: 谭耀湘
+ * 作者: Vondear
  *
  * 时间: 2016年4月5日 下午16:25:31
  *
