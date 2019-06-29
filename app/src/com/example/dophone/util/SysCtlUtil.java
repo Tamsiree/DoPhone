@@ -45,7 +45,7 @@ import android.widget.Toast;
 /**
  * @see 超级钱包 系统公共控制类
  * @version 2016/1/23
- * @author 谭耀湘
+ * @author Vondear
  */
 public class SysCtlUtil {
 
